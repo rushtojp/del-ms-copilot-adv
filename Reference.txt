@@ -1,3 +1,18 @@
+linkedin : https://www.linkedin.com/in/jayaprakashbalakrishnan/
+
+MTM link :
+
+Microsoft Standard Post Event Survey
+https://www.metricsthatmatter.com/url/u.aspx?CE97C2BDD243278197
+
+https://learn.microsoft.com/en-us/training/paths/create-extend-custom-copilots-microsoft-copilot-studio/
+
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=DY54JL
+
+https://learn.microsoft.com/en-us/training/paths/extend-microsoft-365-copilot-studio/
+
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=RPY7R5
+
 Copilot Studio Labs Reference
 
 https://github.com/MicrosoftLearning/mslearn-copilotstudio
