@@ -1,1 +1,3 @@
+Copilot Studio Labs Reference
 
+https://github.com/MicrosoftLearning/mslearn-copilotstudio
