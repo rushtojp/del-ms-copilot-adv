@@ -1,3 +1,104 @@
 Copilot Studio Labs Reference
 
 https://github.com/MicrosoftLearning/mslearn-copilotstudio
+
+Extend Microsoft copilot studio agents course
+
+https://learn.microsoft.com/en-us/training/paths/extend-microsoft-365-copilot-studio/
+
+https://learn.microsoft.com/en-us/users/me/achievements?source=learn&redeem=93VRZD
+
+Develop ai apps and manage Microsoft foundry
+
+https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/
+
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=24JQ2J
+
+Survey link : https://www.metricsthatmatter.com/url/u.aspx?237BF7AC1237866814
+
+Questions link
+
+https://digitalpeak365-my.sharepoint.com/:x:/g/personal/jp_digitalpeak_in/IQDNE3GEee31RZ7YgsyA63ctAd-E6JLD4nX0jzktxy7kn30?e=wY1FDT
+
+Copilot studio kit
+
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/kit-overview
+
+github copilot kit download link
+
+https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit/releases/tag/CopilotStudioAccelerator-June2026
+
+Power platform pipelines
+
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/kit-automate-test-deploy
+
+https://github.com/user-attachments/files/21301068/Automated.Testing.and.Deployment.of.Copilot.Studio.Agents.Overview.pdf
+
+Create Agents in Microsoft Copilot Studio
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=723ZG8
+
+Create and Publish agents in Microsoft copilot studio
+https://learn.microsoft.com/en-us/users/me/achievements?source=learn&redeem=DLJRJD
+
+Extend and Manage Microsoft copilot studio
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=5YL8GX
+
+Agents architure center
+https://learn.microsoft.com/en-us/power-platform/architecture/?wt.mc_id=ppcsac_share_content_ppmktg
+
+Agents - Solution Ideas
+https://learn.microsoft.com/en-us/power-platform/architecture/solution-ideas/
+
+Copilot Agent Academy
+https://microsoft.github.io/agent-academy/
+
+Navigating Microsoft's Copilot Studio and Azure AI Foundry
+https://techcommunity.microsoft.com/blog/microsoftmissioncriticalblog/navigating-microsofts-copilot-studio-and-azure-ai-foundry/4472233
+
+Copilot studio estimator
+https://microsoft.github.io/copilot-studio-estimator/
+
+copilot studio pre-purchase plan
+https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/scale-your-agent-rollout-with-confidence-introducing-copilot-credit-pre-purchase-plan/
+
+Microsoft Copilot Studio vs. Microsoft Foundry: Building AI Agents and Apps
+https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160
+
+Copilot Security Architecture: What Actually Protects Your Data
+https://www.m365.fm/blog/copilot-security-architecture-what-actually-protects-your-data/
+
+Securing AI agents - Ai governance best practices
+https://www.m365.fm/securing-ai-agents-safe-governance-best-practices/
+
+copilot studio guidance documentation
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/
+
+Microsoft agent pre-purchase plan
+https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/agent-pre-purchase
+
+comparing microsoft copilot and microsoft foundry 
+https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160
+
+ROI calculator framework for agentic ai
+https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/a-framework-for-calculating-roi-for-agentic-ai-apps/4369169#community-4369169-mcetoc_1ii7b8ma5_7
+
+Realworld case studies - capstone reference
+https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/
+
+MCP and A2A protocols
+https://learn.microsoft.com/en-us/agents/architecture/multi-agent-patterns
+
+Microsoft copilot guidance documentatiohn
+
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/
+
+Agent Governance whitepaper
+
+https://adoption.microsoft.com/files/copilot-studio/Agent-governance-whitepaper.pdf
+
+MCS tools 
+https://github.com/rushtojp/mcs-labs/tree/main/labs/mcs-tools
+
+copilot studio dashboarding studio
+
+https://www.youtube.com/watch?v=R45-jBKlBvs
