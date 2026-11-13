@@ -17,19 +17,11 @@ Copilot Studio Labs Reference
 
 https://github.com/MicrosoftLearning/mslearn-copilotstudio
 
-Extend Microsoft copilot studio agents course
-
-https://learn.microsoft.com/en-us/training/paths/extend-microsoft-365-copilot-studio/
-
-https://learn.microsoft.com/en-us/users/me/achievements?source=learn&redeem=93VRZD
 
 Develop ai apps and manage Microsoft foundry
 
 https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/
 
-https://learn.microsoft.com/en-us/users/me/achievements?redeem=24JQ2J
-
-Survey link : https://www.metricsthatmatter.com/url/u.aspx?237BF7AC1237866814
 
 Questions link
 
